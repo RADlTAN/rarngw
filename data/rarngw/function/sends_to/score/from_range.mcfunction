@@ -1,0 +1,1 @@
+$execute store result score $(name) $(objective) run function rarngw:returns/from_range {min:$(min),max:$(max)} 

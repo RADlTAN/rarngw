@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "pack_format": 71,
+        "min_format": 71,
+        "max_format": 999,
+        "description": "A pack which stores rng functions, made with the goal of integrating into other datapacks."
+    }
+}

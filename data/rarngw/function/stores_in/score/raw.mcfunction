@@ -1,0 +1,1 @@
+execute store result score ::global rarngw--store.last run function rarngw:returns/raw

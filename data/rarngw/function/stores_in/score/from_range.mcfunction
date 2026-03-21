@@ -1,0 +1,1 @@
+$execute store result score ::global rarngw--store.last run function rarngw:returns/from_range {min:$(min),max:$(max)} 

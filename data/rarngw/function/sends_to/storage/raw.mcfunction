@@ -1,0 +1,1 @@
+$execute store result storage $(name) $(path) int 1 run function rarngw:returns/raw

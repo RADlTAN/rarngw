@@ -1,0 +1,1 @@
+$execute store result score $(name) $(objective) run function rarngw:returns/raw
