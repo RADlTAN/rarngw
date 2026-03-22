@@ -1,0 +1,1 @@
+execute store result storage rarngw:main last int 1 run function rarngw:returns/raw

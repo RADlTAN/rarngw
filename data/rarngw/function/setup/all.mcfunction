@@ -1,0 +1,1 @@
+function rarngw:setup/scoreboard/all

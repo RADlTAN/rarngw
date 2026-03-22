@@ -6,3 +6,5 @@ scoreboard objectives add rarngw--parameters.min dummy
 scoreboard objectives add rarngw--parameters.max dummy
 
 scoreboard objectives add rarngw--store.last dummy
+
+scoreboard objectives add rarngw--store.tick dummy
